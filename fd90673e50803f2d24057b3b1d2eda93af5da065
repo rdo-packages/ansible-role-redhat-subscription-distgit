@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a75e904_e6c0de2c",
+        "filename": "ansible-role-redhat-subscription.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 113
+      },
+      "writtenOn": "2017-12-13T18:47:00Z",
+      "side": 1,
+      "message": "License should be ASL 2.0",
+      "range": {
+        "startLine": 12,
+        "startChar": 15,
+        "endLine": 12,
+        "endChar": 22
+      },
+      "revId": "fd90673e50803f2d24057b3b1d2eda93af5da065",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
