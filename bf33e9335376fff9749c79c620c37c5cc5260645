@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a75e904_294f2994",
+        "filename": "ansible-role-redhat-subscription.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2017-12-14T17:02:39Z",
+      "side": 1,
+      "message": "I think this should be upstream_version to be compatible with pre-release CBS builds.",
+      "range": {
+        "startLine": 14,
+        "startChar": 73,
+        "endLine": 14,
+        "endChar": 80
+      },
+      "revId": "bf33e9335376fff9749c79c620c37c5cc5260645",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
