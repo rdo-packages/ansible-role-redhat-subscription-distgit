@@ -29,12 +29,6 @@ BuildRequires:  python%{pyver}-devel
 BuildRequires:  python%{pyver}-setuptools
 BuildRequires:  python%{pyver}-pbr
 
-# Handle python2 exception
-%if %{pyver} == 2
-BuildRequires:  python-d2to1
-Requires:       ansible
-%else
-BuildRequires:  python%{pyver}-d2to1
 %if 0%{?rhel} > 7
 Requires: ansible
 %else
