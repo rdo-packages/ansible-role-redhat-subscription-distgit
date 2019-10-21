@@ -14,8 +14,8 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 
 Name:           %{rolename}
-Version:        XXX
-Release:        XXX
+Version:        1.0.4
+Release:        1%{?dist}
 Summary:        Ansible role for setting up Red Hat Subscription Management.
 
 Group:          System Environment/Base
@@ -63,4 +63,7 @@ export SKIP_PIP_INSTALL=1
 
 
 %changelog
+* Mon Oct 21 2019 RDO <dev@lists.rdoproject.org> 1.0.4-1
+- Update to 1.0.4
+
 
