@@ -22,6 +22,30 @@
       "revId": "be67c1742579ee4f9d94ac05ea32aa10ff691ab0",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ac04daf1_39997902",
+        "filename": "ansible-role-redhat-subscription.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2020-04-17T18:31:31Z",
+      "side": 1,
+      "message": "I think i merged some spec using \"ansible\" instead. At his point ansible\u003d\u003dpython3dist(ansible), right?",
+      "parentUuid": "ac49a91f_2e5248a3",
+      "range": {
+        "startLine": 22,
+        "startChar": 16,
+        "endLine": 22,
+        "endChar": 23
+      },
+      "revId": "be67c1742579ee4f9d94ac05ea32aa10ff691ab0",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
     }
   ]
 }
