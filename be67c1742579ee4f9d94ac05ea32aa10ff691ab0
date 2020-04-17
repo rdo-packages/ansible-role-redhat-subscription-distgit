@@ -46,6 +46,30 @@
       "revId": "be67c1742579ee4f9d94ac05ea32aa10ff691ab0",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2e0f285a_5bcce74f",
+        "filename": "ansible-role-redhat-subscription.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 403
+      },
+      "writtenOn": "2020-04-17T18:47:15Z",
+      "side": 1,
+      "message": "ahh right, just ansible should also work now.",
+      "parentUuid": "ac04daf1_39997902",
+      "range": {
+        "startLine": 22,
+        "startChar": 16,
+        "endLine": 22,
+        "endChar": 23
+      },
+      "revId": "be67c1742579ee4f9d94ac05ea32aa10ff691ab0",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
     }
   ]
 }
