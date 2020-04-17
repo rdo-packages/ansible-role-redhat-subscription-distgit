@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ac49a91f_2e5248a3",
+        "filename": "ansible-role-redhat-subscription.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 403
+      },
+      "writtenOn": "2020-04-17T12:27:07Z",
+      "side": 1,
+      "message": "python3dist(ansible)",
+      "range": {
+        "startLine": 22,
+        "startChar": 16,
+        "endLine": 22,
+        "endChar": 23
+      },
+      "revId": "be67c1742579ee4f9d94ac05ea32aa10ff691ab0",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
