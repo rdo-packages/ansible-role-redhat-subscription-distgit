@@ -69,3 +69,4 @@ export SKIP_PIP_INSTALL=1
 - Update to 1.1.4
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/ansible-role-redhat-subscription/commit/340d059ee56f462fb96c52df7761f9d5c98ae66b
